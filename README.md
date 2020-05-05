@@ -4,7 +4,7 @@
 
 OR
 
-Download IMAGE (mega.nz or torrent)
+Download IMAGE (mega.nz or [torrent](https://github.com/madyel/alarm/blob/master/alarm.torrent))
 
 Create IMAGE with ArchLinuxARM-rpi-latest.tar.gz
 
